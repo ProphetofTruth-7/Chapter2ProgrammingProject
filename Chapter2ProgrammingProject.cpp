@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-
+    const int Tank = 20;
     cout << "Gas Mileage!" << endl;
 
     return 0;
